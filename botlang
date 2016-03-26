@@ -1,0 +1,45 @@
+---
+[[politics,candidates,presidency]]
+
+
+>>>
+@@start
+((More or no?))
+So my thoughts on politics?
+>>>
+<<<
+[[stupid,disagree]] -> more
+<<<
+<<<
+[[.*]] -> `You fool!`
+<<<
+
+>>>
+@@more
+((Was that a yes or no?))
+I thought you would say that.More?
+>>>
+<<<
+[[y,yes,yeah,yeah,sure]] -> continue
+<<<
+<<<
+[[n,no,nope,nah,naw]] -> end
+<<<
+
+>>>
+@@continue
+Continue
+>>>
+
+>>>
+@@end
+Alright, it appears you've had enough
+>>>
+---
+---
+[[shalom]]
+>>>
+@@start
+And prosper
+>>>
+---

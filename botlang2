@@ -1,0 +1,55 @@
+---
+[[chatblog]]
+>>>
+@@start
+I was wondering if blogs might be affected by the recent chatbot phenomenon. conversational
+UI's aren't anything new but they're experiencing a resurgence as we collectively
+come to grips with the thought that traditional gui's might not be the best interface
+for everything. Because of this I also started thinking about blogs. Blogs are everywhere
+despite increasing irrelevance as people concentrate their internet personas into a handful of
+silos. I see advice constantly, urging people to start their own blogs for myriad reasons, and yet,
+I'm still confused as to what exactly the point of a blog is, especially as it becomes ever more
+difficult to find the good ones. It seems like most people would rather read an aggregated stream
+of content from multiple people that they're interested in. Of course, the main problem then is that
+it's platform x reaping the main benefits of a person's content. If blogs were bots, perhaps people
+could maintain control over their content, while still maintaining many of the benefits of serving content
+on one of the larger platforms out in the world. A bot can be available over SMS, through a web page, and in
+app format. Maybe they could succeed where RSS came up short.
+>>>
+---
+---
+[[thoughts,posts,thinking]]
+>>>
+@@start
+((Was that a yes or no?))
+Did you wanna hear what's been on Jordan's mind lately?
+>>>
+<<<
+[[n,no,nah,naw]] -> `Cool, cool. Some other time.`
+<<<
+<<<
+[[y,yes,yeah,yea]] -> `Been thinking a lot about No Man's Sky lately. I'm
+so excited to play it, both because it looks amazing and because the procedural generation
+going on is mind boggling from an engineering perspective. I really want to look into making a game
+where procedural generation is a main component. Maybe in a side project or two.`
+<<<
+---
+---
+[[projects,project]]
+>>>
+@@start
+((I'm sorry, come again?))
+Jordan's other projects you can ask about: ruckus, whit
+>>>
+<<<
+[[ruckus]] -> `Ruckus is a realtime game I built with socket.io and node. It was a project
+I built over the summer to play around with node and web sockets. Not much functionality currently,
+but hopefully I'll add more soon.`
+<<<
+<<<
+[[whit]] -> `I had an idea, after hearing about Feross Aboukhadijeh's WebTorrent and being a
+long time fan of Medium. Basically the premise was, what if one could build a decentralized newspaper, where
+content was hosted by whoever wrote it? This was also a fun opportunity to learn some React. I still want to
+return to this project soon because I think the kernel of the idea is pretty neat.`
+<<<
+---
